@@ -11,6 +11,6 @@
     <title>IDEA项目</title>
   </head>
   <body>
-  第一个IDEA项目
+  第一个IDEA项目AAAfirstWeb/web/index.jsp
   </body>
 </html>
